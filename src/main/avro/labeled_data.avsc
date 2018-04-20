@@ -1,0 +1,6 @@
+{"type":"record",
+	"name":"labeled_files",
+	"namespace":"any.data",
+	"fields":
+		[{"name":"raw_data","type":["null","bytes"]}]
+}
